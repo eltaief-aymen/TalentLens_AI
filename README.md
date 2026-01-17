@@ -8,6 +8,15 @@ Built with **Python** and **Llama 3 (via Ollama)**, TalentLens AI goes far beyon
 This project is designed as a **real-world HR intelligence system**, not a demo.
 
 ---
+## 🖥️ Application Preview
+
+### 📥 Resume & Job Description Input
+![Resume Input](screener/B1.png)
+
+### 📊 AI Screening Results
+![Screening Results](screener/B2.png)
+
+---
 
 ## 🎯 Why TalentLens AI?
 
